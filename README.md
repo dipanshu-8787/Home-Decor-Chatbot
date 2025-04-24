@@ -18,9 +18,7 @@ A friendly AI chatbot built using the **Gemini API** that helps users with home 
 - HTML, CSS, JavaScript (Vanilla)
 - Gemini API (Google Generative Language API)
 - Custom UI with user and AI chat bubbles
-
-📷 Screenshot
-![alt text](<Screenshot 2025-04-24 222634.png>)
+  
 
 🛡️ Restrictions
 This chatbot only responds to home decor and interior design questions. All unrelated queries are gently declined.
